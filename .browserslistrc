@@ -1,3 +1,6 @@
-> 1%
-last 2 versions
-not dead
+# > 1%
+# last 2 versions
+# not dead
+
+# Andriod >= 4.0
+# iOS >= 8
